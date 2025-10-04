@@ -6,4 +6,4 @@
 
 <h2 align="left">Обо мне</h2>
 
-<h4 align="left">Обучаюсь в ИТИС</h4>
+<br><h4 align="left">- Обучаюсь в ИТИС</h4>
