@@ -16,5 +16,4 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40">
   <img src="https://skillicons.dev/icons?i=mysql" height="40">
   <img src="https://skillicons.dev/icons?i=sklearn" height="40">
-  <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" height="40">
 </div>
