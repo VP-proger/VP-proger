@@ -10,7 +10,10 @@
 <h4 align="left">- Реализовал несколько крупных пет-проектов</h4>
 
 <h3 align="left">Мой стек:</h3>
-<img src="https://skillicons.dev/icons?i=py" height="40">
-<img src="https://skillicons.dev/icons?i=postgres" height="40">
-<img src="https://skillicons.dev/icons?i=mysql" height="40">
-<img src="https://skillicons.dev/icons?i=sklearn" height="40">
+
+<div>
+  <img src="https://skillicons.dev/icons?i=py" height="40">
+  <img src="https://skillicons.dev/icons?i=postgres" height="40">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40">
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40">
+</div>
