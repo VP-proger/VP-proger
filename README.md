@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/VP-proger/VP-proger/blob/main/Assets/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" align="center" style="width: 100%" />
 </div>
 
 
