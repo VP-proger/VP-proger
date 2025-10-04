@@ -10,4 +10,4 @@
 <h4 align="left">- Реализовал несколько крупных пет-проектов</h4>
 
 <h3 align="left">Мой стек:</h3>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=py" height="40">
