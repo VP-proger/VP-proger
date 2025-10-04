@@ -10,4 +10,4 @@
 <h4 align="left">- Реализовал несколько крупных пет-проектов</h4>
 
 <h3 align="left">Мой стек:</h3>
-[![My Skills](https://skillicons.dev/icons?i=mysql,py,sklearn)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=mysql,py,sklearn)
