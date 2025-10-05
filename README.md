@@ -13,7 +13,7 @@
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="40" weight="40">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR72kaAQblLJbB-eE7x84UI-YccNR7pzXeVkSqiaWbTWVcSt6O0QxVunVViY212FEmk7ug&usqp=CAU" height="40" weight="40">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkGJWNeMDAa1dGvcxKUlDWiZT8xArt2dzLmxCqoBTpbqDBj3vfDY4-ZTPFyPjssw7mzhA&usqp=CAU" height="40" weight="40">
   <img src="https://skillicons.dev/icons?i=mysql" height="40">
   <img src="https://skillicons.dev/icons?i=sklearn" height="40">
 </div>
