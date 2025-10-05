@@ -12,7 +12,7 @@
 <h3 align="left">Мой стек:</h3>
 
 <div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkBKGzgKHQA42GTo40DCQUnNVkUWd3FMzFJA&s" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="40">
   <img src="https://icon2.cleanpng.com/20180611/ipg/aa8k6rg0g.webp" height="40">
   <img src="https://skillicons.dev/icons?i=mysql" height="40">
   <img src="https://skillicons.dev/icons?i=sklearn" height="40">
