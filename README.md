@@ -12,7 +12,7 @@
 <h3 align="left">Мой стек:</h3>
 
 <div>
-  <img src="https://img.shields.io/static/v1?message=python&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?message=SQL&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?message=PowerBI&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge">
+  - Python (NumPy, Pandas, SciPy)
+  - SQL (MySQL, PostgreSQL)
+  - Power BI and Tablue
 </div>
