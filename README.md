@@ -14,5 +14,5 @@
 <div>
   <img src="https://img.shields.io/static/v1?message=python&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?message=SQL&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?message=Power BI&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?message=PowerBI&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge">
 </div>
