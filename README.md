@@ -17,3 +17,5 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40">
   <img src="https://skillicons.dev/icons?i=sklearn" height="40">
 </div>
+
+<img src="https://img.shields.io/static/v1?message=python&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25">
