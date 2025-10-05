@@ -12,8 +12,8 @@
 <h3 align="left">Мой стек:</h3>
 
 <div>
-  <h4 align="left">- Python (NumPy, Pandas, SciPy)</h4>
-  <h4 align="left">- SQL (MySQL, PostgreSQL)</h4>
-  <h4 align="left">- Power BI and Tablue</h4>
+  <h4 align="left">- Python (NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn)</h4>
+  <h4 align="left">- SQL</h4>
   <h4 align="left">- Excel and Google Sheets</h4>
+  <h4 align="left">- Power BI and Tablue</h4>
 </div>
