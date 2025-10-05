@@ -12,10 +12,7 @@
 <h3 align="left">Мой стек:</h3>
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="40" weight="40">
-  <img src="https://icon2.cleanpng.com/20180330/xfq/avc0dubvl.webp" height="40" weight="40">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40">
-  <img src="https://skillicons.dev/icons?i=sklearn" height="40">
+  <img src="https://img.shields.io/static/v1?message=python&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?message=SQL&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?message=Power BI&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge">
 </div>
-
-<img src="https://img.shields.io/static/v1?message=python&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25">
