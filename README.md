@@ -12,8 +12,8 @@
 <h3 align="left">Мой стек:</h3>
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="40">
-  <img src="https://gimgs2.nohat.cc/thumb/f/640/sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-png--compngwingzoupl.jpg" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="40" weight="40">
+  <img src="https://gimgs2.nohat.cc/thumb/f/640/sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-png--compngwingzoupl.jpg" height="40" weight="40">
   <img src="https://skillicons.dev/icons?i=mysql" height="40">
   <img src="https://skillicons.dev/icons?i=sklearn" height="40">
 </div>
